@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+}
+p{
+    font-size: 26px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-style: italic;
+    text-align:center;
+}
+#guerra{
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+#penis:hover{
+    width: 800px;
+    height: 733px;
+}
+#h2{
+    text-indent: 2em;
+}
+#p1{
+    text-indent: 2em;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    max-width: 800px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
